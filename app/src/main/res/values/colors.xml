@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#11B6CA</color>
+    <color name="colorPrimaryDark">#01504B</color>
+    <color name="colorAccent">#FF6D00</color>
+    <color name="page_bg">#F0F8FF</color>
+    <color name="notice_bg">#FFF8E1</color>
+    <color name="notice_text">#5F312B</color>
+    <color name="result_bg">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="logo_brown">#A0541B</color>
+</resources>

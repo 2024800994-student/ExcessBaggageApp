@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">AeroPack Baggage Estimator</string>
+
+    <!-- TODO: replace with your own GitHub URL -->
+    <string name="app_url">https://github.com/2024800994-student/ExcessBaggageApp</string>
+
+    <string name="instructions">How to use:\n1. Enter your checked baggage weight in kg.\n2. Choose your ticket class.\n3. Enter the excess baggage rate per kg (RM).\n4. Tap CALCULATE.\n\nFree allowance: Economy 20 kg, Business 40 kg. An 8% service tax is added to the excess charge.</string>
+
+    <string name="hint_weight">Baggage weight (kg)</string>
+    <string name="helper_weight">Example: 25 or 42.5</string>
+    <string name="label_class">Ticket class</string>
+    <string name="economy">Economy (20 kg)</string>
+    <string name="business">Business (40 kg)</string>
+    <string name="hint_rate">Excess rate per kg</string>
+    <string name="helper_rate">Example: 15</string>
+    <string name="label_keypad">Quick Numeric Keypad</string>
+    <string name="close_keypad">Close Keypad</string>
+    <string name="key_0">0</string>
+    <string name="key_1">1</string>
+    <string name="key_2">2</string>
+    <string name="key_3">3</string>
+    <string name="key_4">4</string>
+    <string name="key_5">5</string>
+    <string name="key_6">6</string>
+    <string name="key_7">7</string>
+    <string name="key_8">8</string>
+    <string name="key_9">9</string>
+    <string name="key_dot">.</string>
+    <string name="key_delete">⌫</string>
+
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_reset">Reset</string>
+
+    <string name="result_title">Estimated Charges</string>
+    <string name="out_excess_weight">Excess baggage weight</string>
+    <string name="out_excess_charge">Excess baggage charge</string>
+    <string name="out_total">Total amount payable (incl. 8% tax)</string>
+
+    <string name="err_weight_empty">Please enter the baggage weight.</string>
+    <string name="err_weight_positive">Weight must be greater than 0 kg.</string>
+    <string name="err_rate_empty">Please enter the rate per kg.</string>
+    <string name="err_rate_negative">Rate cannot be negative.</string>
+    <string name="err_invalid_number">Please enter a valid number.</string>
+    <string name="toast_fix_errors">Please correct the highlighted fields.</string>
+    <string name="toast_within_limit">Good news! Your baggage is within the %d kg free allowance.</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_about">About</string>
+    <string name="share_via">Share via</string>
+    <string name="share_text">Check out this Baggage Fee Estimator app: %s</string>
+
+    <string name="about_title">About</string>
+    <string name="about_version">Version 1.0</string>
+    <string name="about_description">This app estimates the excess baggage fee for air travel based on baggage weight, ticket class and the excess rate per kg.</string>
+    <string name="about_developer">Developer: AIMAR RIFQI BIN AHMAD TAMIZI\nStudent No: 2024800994\nGroup: RCDCS2405A\nProgramme Code: CDCS240\nCourse: ICT602 Mobile Technology</string>
+    <string name="about_website_label">Application website:</string>
+    <string name="about_copyright">© 2026 AIMAR RIFQI BIN AHMAD TAMIZI. All rights reserved.</string>
+</resources>
